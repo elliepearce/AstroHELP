@@ -12,7 +12,7 @@ The MCFOST output required is:
 - Grain sizes
 - Dust particle density
 - Grid
-#### These files must all be in the same folder/directory.
+#### These files must all be in the same directory.
 
 To generate UV field, include line: -output_UV_field.
 To generate column density, include line: -cd
